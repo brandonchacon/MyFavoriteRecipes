@@ -7,4 +7,4 @@ You have been provided a very boring website with only one recipe.  Your task is
 
 *All* elements in the provided HTML pages must be styled using appropriate id's and classes to receive full credit.    
 
-
+This Assignment will be on the Food.html doc
